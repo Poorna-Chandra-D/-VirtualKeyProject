@@ -49,30 +49,21 @@ public class FileOptionsScreen implements Screen {
         
     	switch(option) {
 
-            case 1: // Add File
+            case 1: 
                 this.AddFile();
                 
                 this.Show();
                 break;
-            case 2: // Delete File
+            case 2: 
                 this.DeleteFile();
                 
                 this.Show();
                 break;
-            case 3: // Search File
+            case 3: 
                 this.SearchFile();
                 this.Show();
                 break;
             
-                /*
-            case 4: // Return to Menu
-            	
-            	ScreenService.setCurrentScreen(ScreenService.WelcomeScreen);
-                ScreenService.getCurrentScreen().Show();
-                ScreenService.getCurrentScreen().GetUserInput();
-                
-                break;
-                */
             default:
                 System.out.println("Invalid Option");
                 break;
