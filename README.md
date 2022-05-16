@@ -41,13 +41,8 @@ Second sprint started with testing components built in first sprint and 3 major 
 • Implementing functions for the features.
 • Connecting with the main menu to sub menu.
 By the end of second sprint all the required targets were achieved and met the requirements.
-Algorithms and flowcharts
 
-Algorithms
- 
 
- 
-Flowcharts
  
 Core concepts used:
 Switch
